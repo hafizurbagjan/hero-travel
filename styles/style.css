@@ -34,12 +34,12 @@ li{
 .nav-bar{
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-item: center;
 }
 
 .logo{
     display: flex;
-    align-item: center
+    align-item: center;
     width: 280px;
 }
 
